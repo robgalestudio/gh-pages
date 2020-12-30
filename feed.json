@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rob Gale",
     "description": "",
-    "home_page_url": "https://robgaleillustration.com",
-    "feed_url": "https://robgaleillustration.com/feed.json",
+    "home_page_url": "https://robgale.co",
+    "feed_url": "https://robgale.co/feed.json",
     "user_comment": "",
     "author": {
         "name": "Rob Gale"
     },
     "items": [
         {
-            "id": "https://robgaleillustration.com/2001.html",
-            "url": "https://robgaleillustration.com/2001.html",
+            "id": "https://robgale.co/2001.html",
+            "url": "https://robgale.co/2001.html",
             "title": "2001",
-            "image": "https://robgaleillustration.com/media/posts/6/rob-gale-2001-v1.jpg",
+            "image": "https://robgale.co/media/posts/6/rob-gale-2001-v1.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -24,10 +24,10 @@
             "date_modified": "2020-12-29T17:56:30-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/the-bookworm.html",
-            "url": "https://robgaleillustration.com/the-bookworm.html",
+            "id": "https://robgale.co/the-bookworm.html",
+            "url": "https://robgale.co/the-bookworm.html",
             "title": "The Bookworm",
-            "image": "https://robgaleillustration.com/media/posts/4/rob-gale-bookworm-2.jpg",
+            "image": "https://robgale.co/media/posts/4/rob-gale-bookworm-2.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -38,10 +38,10 @@
             "date_modified": "2020-12-29T17:57:18-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/the-martian.html",
-            "url": "https://robgaleillustration.com/the-martian.html",
+            "id": "https://robgale.co/the-martian.html",
+            "url": "https://robgale.co/the-martian.html",
             "title": "The Martian",
-            "image": "https://robgaleillustration.com/media/posts/3/rob-gale-martian-2.jpg",
+            "image": "https://robgale.co/media/posts/3/rob-gale-martian-2.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -52,10 +52,10 @@
             "date_modified": "2020-12-29T17:57:27-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/ran.html",
-            "url": "https://robgaleillustration.com/ran.html",
+            "id": "https://robgale.co/ran.html",
+            "url": "https://robgale.co/ran.html",
             "title": "Ran",
-            "image": "https://robgaleillustration.com/media/posts/2/rob-gale-ran-2.jpg",
+            "image": "https://robgale.co/media/posts/2/rob-gale-ran-2.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -66,10 +66,10 @@
             "date_modified": "2020-12-29T17:57:36-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/macbeth.html",
-            "url": "https://robgaleillustration.com/macbeth.html",
+            "id": "https://robgale.co/macbeth.html",
+            "url": "https://robgale.co/macbeth.html",
             "title": "Macbeth",
-            "image": "https://robgaleillustration.com/media/posts/1/rob-gale-macbeth-v2-2.jpg",
+            "image": "https://robgale.co/media/posts/1/rob-gale-macbeth-v2-2.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -80,10 +80,10 @@
             "date_modified": "2020-12-29T17:57:45-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/killer-come-back-to-me.html",
-            "url": "https://robgaleillustration.com/killer-come-back-to-me.html",
+            "id": "https://robgale.co/killer-come-back-to-me.html",
+            "url": "https://robgale.co/killer-come-back-to-me.html",
             "title": "Killer Come Back to Me",
-            "image": "https://robgaleillustration.com/media/posts/5/rob-gale-not-so-dumb.jpg",
+            "image": "https://robgale.co/media/posts/5/rob-gale-not-so-dumb.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -94,10 +94,10 @@
             "date_modified": "2020-12-29T17:56:39-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/yojimbo.html",
-            "url": "https://robgaleillustration.com/yojimbo.html",
+            "id": "https://robgale.co/yojimbo.html",
+            "url": "https://robgale.co/yojimbo.html",
             "title": "Yojimbo",
-            "image": "https://robgaleillustration.com/media/posts/8/rob-gale-yojimbo.jpg",
+            "image": "https://robgale.co/media/posts/8/rob-gale-yojimbo.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -108,10 +108,10 @@
             "date_modified": "2020-12-29T17:56:16-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/victorian-thug.html",
-            "url": "https://robgaleillustration.com/victorian-thug.html",
+            "id": "https://robgale.co/victorian-thug.html",
+            "url": "https://robgale.co/victorian-thug.html",
             "title": "Victorian Thug",
-            "image": "https://robgaleillustration.com/media/posts/9/rob-gale-victorian-thug.jpg",
+            "image": "https://robgale.co/media/posts/9/rob-gale-victorian-thug.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -122,10 +122,10 @@
             "date_modified": "2020-12-29T17:56:04-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/cowboy.html",
-            "url": "https://robgaleillustration.com/cowboy.html",
+            "id": "https://robgale.co/cowboy.html",
+            "url": "https://robgale.co/cowboy.html",
             "title": "Cowboy",
-            "image": "https://robgaleillustration.com/media/posts/7/rob-gale-cowboy.jpg",
+            "image": "https://robgale.co/media/posts/7/rob-gale-cowboy.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -136,10 +136,10 @@
             "date_modified": "2020-12-29T17:56:23-08:00"
         },
         {
-            "id": "https://robgaleillustration.com/grisley.html",
-            "url": "https://robgaleillustration.com/grisley.html",
+            "id": "https://robgale.co/grisley.html",
+            "url": "https://robgale.co/grisley.html",
             "title": "Grisley",
-            "image": "https://robgaleillustration.com/media/posts/10/rob-gale-grisley.jpg",
+            "image": "https://robgale.co/media/posts/10/rob-gale-grisley.jpg",
             "author": {
                 "name": "Rob Gale"
             },

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Rob Gale</title>
-    <link href="https://robgaleillustration.com/feed.xml" rel="self" />
-    <link href="https://robgaleillustration.com" />
+    <link href="https://robgale.co/feed.xml" rel="self" />
+    <link href="https://robgale.co" />
     <updated>2020-12-29T17:57:45-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
-    <id>https://robgaleillustration.com</id>
+    <id>https://robgale.co</id>
 
     <entry>
         <title>2001</title>
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/2001.html"/>
-        <id>https://robgaleillustration.com/2001.html</id>
+        <link href="https://robgale.co/2001.html"/>
+        <id>https://robgale.co/2001.html</id>
             <category term="Poster"/>
 
         <updated>2020-12-29T17:56:30-08:00</updated>
@@ -27,8 +27,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/the-bookworm.html"/>
-        <id>https://robgaleillustration.com/the-bookworm.html</id>
+        <link href="https://robgale.co/the-bookworm.html"/>
+        <id>https://robgale.co/the-bookworm.html</id>
             <category term="Book Cover"/>
 
         <updated>2020-12-29T17:57:18-08:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/the-martian.html"/>
-        <id>https://robgaleillustration.com/the-martian.html</id>
+        <link href="https://robgale.co/the-martian.html"/>
+        <id>https://robgale.co/the-martian.html</id>
             <category term="Book Cover"/>
 
         <updated>2020-12-29T17:57:27-08:00</updated>
@@ -53,8 +53,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/ran.html"/>
-        <id>https://robgaleillustration.com/ran.html</id>
+        <link href="https://robgale.co/ran.html"/>
+        <id>https://robgale.co/ran.html</id>
             <category term="Poster"/>
 
         <updated>2020-12-29T17:57:36-08:00</updated>
@@ -66,8 +66,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/macbeth.html"/>
-        <id>https://robgaleillustration.com/macbeth.html</id>
+        <link href="https://robgale.co/macbeth.html"/>
+        <id>https://robgale.co/macbeth.html</id>
             <category term="Poster"/>
 
         <updated>2020-12-29T17:57:45-08:00</updated>
@@ -79,8 +79,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/killer-come-back-to-me.html"/>
-        <id>https://robgaleillustration.com/killer-come-back-to-me.html</id>
+        <link href="https://robgale.co/killer-come-back-to-me.html"/>
+        <id>https://robgale.co/killer-come-back-to-me.html</id>
             <category term="Interior Illustrations"/>
 
         <updated>2020-12-29T17:56:39-08:00</updated>
@@ -92,8 +92,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/yojimbo.html"/>
-        <id>https://robgaleillustration.com/yojimbo.html</id>
+        <link href="https://robgale.co/yojimbo.html"/>
+        <id>https://robgale.co/yojimbo.html</id>
             <category term="Personal Project"/>
 
         <updated>2020-12-29T17:56:16-08:00</updated>
@@ -105,8 +105,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/victorian-thug.html"/>
-        <id>https://robgaleillustration.com/victorian-thug.html</id>
+        <link href="https://robgale.co/victorian-thug.html"/>
+        <id>https://robgale.co/victorian-thug.html</id>
             <category term="Personal Project"/>
 
         <updated>2020-12-29T17:56:04-08:00</updated>
@@ -118,8 +118,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/cowboy.html"/>
-        <id>https://robgaleillustration.com/cowboy.html</id>
+        <link href="https://robgale.co/cowboy.html"/>
+        <id>https://robgale.co/cowboy.html</id>
             <category term="Personal Project"/>
 
         <updated>2020-12-29T17:56:23-08:00</updated>
@@ -131,8 +131,8 @@
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgaleillustration.com/grisley.html"/>
-        <id>https://robgaleillustration.com/grisley.html</id>
+        <link href="https://robgale.co/grisley.html"/>
+        <id>https://robgale.co/grisley.html</id>
             <category term="Personal Project"/>
 
         <updated>2020-12-29T17:55:56-08:00</updated>
