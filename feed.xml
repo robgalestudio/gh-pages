@@ -3,7 +3,7 @@
     <title>Rob Gale | Illustration</title>
     <link href="https://robgale.co/feed.xml" rel="self" />
     <link href="https://robgale.co" />
-    <updated>2020-12-30T17:48:10-08:00</updated>
+    <updated>2020-12-30T18:06:04-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://robgale.co/about-contact.html"/>
         <id>https://robgale.co/about-contact.html</id>
 
-        <updated>2020-12-30T12:21:37-08:00</updated>
+        <updated>2020-12-30T18:06:04-08:00</updated>
             <summary>
                 <![CDATA[
                     I'd love to hear from you and I am currently available for freelance projects. Please feel free to send me an email at: My name&hellip;
@@ -25,10 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">I'd love to hear from you and I am currently available for freelance projects. Please feel free to send me an email at:</p>
-<h2 class="align-center"><a href="mailto: rob@robgale.co" target="_blank" rel="noopener noreferrer">rob@robgale.co</a></h2>
-<hr>
-<h2>About</h2>
+                <p>I'd love to hear from you and I am currently available for freelance projects. <br>Please feel free to send me an email at:</p>
+<h4 class="align-left"><a href="mailto: rob@robgale.co" target="_blank" rel="noopener noreferrer">rob@robgale.co</a></h4>
+<h2>About Me</h2>
 <section id="section-2-16" class=" ct-section">
 <div class="ct-section-inner-wrap">
 <div id="new_columns-76-16" class="ct-new-columns">
