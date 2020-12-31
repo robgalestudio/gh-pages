@@ -41,7 +41,7 @@
             "id": "https://robgale.co/the-bookworm.html",
             "url": "https://robgale.co/the-bookworm.html",
             "title": "The Bookworm",
-            "image": "https://robgale.co/media/posts/4/rob-gale-bookworm-2.jpg",
+            "image": "https://robgale.co/media/posts/4/rob-gale-bookworm.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -49,13 +49,13 @@
                    "Book Cover"
             ],
             "date_published": "2020-12-29T10:35:04-08:00",
-            "date_modified": "2020-12-29T17:57:18-08:00"
+            "date_modified": "2020-12-30T17:47:03-08:00"
         },
         {
             "id": "https://robgale.co/the-martian.html",
             "url": "https://robgale.co/the-martian.html",
             "title": "The Martian",
-            "image": "https://robgale.co/media/posts/3/rob-gale-martian-2.jpg",
+            "image": "https://robgale.co/media/posts/3/rob-gale-martian.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -63,13 +63,13 @@
                    "Book Cover"
             ],
             "date_published": "2020-12-29T10:34:11-08:00",
-            "date_modified": "2020-12-29T17:57:27-08:00"
+            "date_modified": "2020-12-30T17:47:25-08:00"
         },
         {
             "id": "https://robgale.co/ran.html",
             "url": "https://robgale.co/ran.html",
             "title": "Ran",
-            "image": "https://robgale.co/media/posts/2/rob-gale-ran-2.jpg",
+            "image": "https://robgale.co/media/posts/2/rob-gale-ran.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -77,13 +77,13 @@
                    "Poster"
             ],
             "date_published": "2020-12-29T10:33:33-08:00",
-            "date_modified": "2020-12-29T17:57:36-08:00"
+            "date_modified": "2020-12-30T17:47:41-08:00"
         },
         {
             "id": "https://robgale.co/macbeth.html",
             "url": "https://robgale.co/macbeth.html",
             "title": "Macbeth",
-            "image": "https://robgale.co/media/posts/1/rob-gale-macbeth-v2-2.jpg",
+            "image": "https://robgale.co/media/posts/1/rob-gale-macbeth-v2.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -91,7 +91,7 @@
                    "Poster"
             ],
             "date_published": "2020-12-29T10:22:28-08:00",
-            "date_modified": "2020-12-29T17:57:45-08:00"
+            "date_modified": "2020-12-30T17:48:10-08:00"
         },
         {
             "id": "https://robgale.co/killer-come-back-to-me.html",
@@ -125,7 +125,7 @@
             "id": "https://robgale.co/victorian-thug.html",
             "url": "https://robgale.co/victorian-thug.html",
             "title": "Victorian Thug",
-            "image": "https://robgale.co/media/posts/9/rob-gale-victorian-thug-2.jpg",
+            "image": "https://robgale.co/media/posts/9/rob-gale-victorian-thug.jpg",
             "author": {
                 "name": "Rob Gale"
             },
@@ -133,7 +133,7 @@
                    "Personal Project"
             ],
             "date_published": "2020-12-29T10:06:00-08:00",
-            "date_modified": "2020-12-30T17:13:20-08:00"
+            "date_modified": "2020-12-30T17:46:12-08:00"
         },
         {
             "id": "https://robgale.co/cowboy.html",
