@@ -3,37 +3,34 @@
     <title>Rob Gale | Illustration</title>
     <link href="https://robgale.co/feed.xml" rel="self" />
     <link href="https://robgale.co" />
-    <updated>2020-12-31T16:29:48-08:00</updated>
+    <updated>2020-12-31T16:49:22-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://robgale.co</id>
 
     <entry>
-        <title>About + Contact</title>
+        <title>About</title>
         <author>
             <name>Rob Gale</name>
         </author>
         <link href="https://robgale.co/about-contact.html"/>
         <id>https://robgale.co/about-contact.html</id>
 
-        <updated>2020-12-30T18:06:04-08:00</updated>
+        <updated>2020-12-31T16:49:22-08:00</updated>
             <summary>
                 <![CDATA[
-                    I'd love to hear from you and I am currently available for freelance projects. Please feel free to send me an email at: My name&hellip;
+                    My name is Rob Gale, I am a freelance illustrator and designer with two decades of experience working with digital agencies. I love collaborating to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I'd love to hear from you and I am currently available for freelance projects. <br>Please feel free to send me an email at:</p>
-<h4 class="align-left"><a href="mailto: rob@robgale.co" target="_blank" rel="noopener noreferrer">rob@robgale.co</a></h4>
-<h2>About Me</h2>
+                <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">My name is Rob Gale, I am a freelance illustrator and designer with two decades of experience working with digital agencies. I love collaborating to generate big ideas and create immersive experiences for the audience. Whether it’s a full-blown visual system for an online brand, a motion graphic piece, or an arresting image, I take pride in doing my part to make sure the customer is absolutely delighted down to the last pixel.</span></p>
 <section id="section-2-16" class=" ct-section">
 <div class="ct-section-inner-wrap">
 <div id="new_columns-76-16" class="ct-new-columns">
 <div id="div_block-77-16" class="ct-div-block">
 <div id="_rich_text-11-16" class="oxy-rich-text">
-<p>My name is Rob Gale, I am a freelance illustrator and designer with two decades of experience working with digital agencies. I love collaborating to generate big ideas and create immersive experiences for the audience. Whether it’s a full-blown visual system for an online brand, a motion graphic piece, or an arresting image, I take pride in doing my part to make sure the customer is absolutely delighted down to the last pixel.</p>
 <p>I can be reached via email at <a href="mailto: rob@robgale.co" target="_blank" rel="noopener noreferrer">rob@robgale</a>.</p>
 <p>I got into the digital design business straight out of art school where I studied film and new media. It was the late 90s, and the Web was still a lot like the Wild West. People hadn’t yet developed strong ideas of what was and was not possible, and I loved the energy of discovering this new world, enchanted by the infinite possibilities of the medium. It was a perfect fit for my multi-disciplinary background as an artist, filmmaker and kid who grew up tinkering with computers since my first Apple II+.</p>
 <p>Early in my career I distinguished myself as a designer who could create emotional impact through interweaving image, motion and sound into immersive interactive experiences. I had the opportunity to collaborate on several award winning digital experiences for the entertainment industry, including work on a handful of dream projects for the Star Wars franchise as well as work for EA, New Line, Sony Pictures, and a number of incredible clients.</p>
@@ -43,26 +40,41 @@
 </div>
 <div id="div_block-78-16" class="ct-div-block">
 <div> </div>
-<h2>Partial Client List</h2>
-<div id="new_columns-113-16" class="ct-new-columns">
-<div id="div_block-120-16" class="ct-div-block">
-<div id="text_block-123-16" class="ct-text-block">
+<h3>Partial Client List</h3>
+<table class=" align-left" style="border-collapse: collapse; width: 100%; border-style: hidden;" border="0">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">
 <ul>
 <li>Electronic Arts</li>
-<li>GE</li>
 <li>Jose Cuervo</li>
 <li>J.P. Morgan</li>
 <li>Hallmark</li>
 <li>Kashi</li>
 <li>Kellog's</li>
 <li>LucasFilm</li>
+</ul>
+</td>
+<td style="width: 33.3333%;">
+<ul>
 <li>FX Networks</li>
-<li>No Starch Press</li>
+<li>GE</li>
 <li>Hard Case Crime</li>
 <li>Mattel</li>
 <li>Microsoft</li>
 <li>Naked Juice</li>
 <li>Nissan</li>
+</ul>
+</td>
+<td style="width: 33.3333%;">
+<section id="section-2-16" class=" ct-section">
+<div class="ct-section-inner-wrap">
+<div id="new_columns-76-16" class="ct-new-columns">
+<div id="div_block-78-16" class="ct-div-block">
+<div id="new_columns-113-16" class="ct-new-columns">
+<div id="div_block-120-16" class="ct-div-block">
+<div id="text_block-123-16" class="ct-text-block">
+<ul>
 <li>New Line</li>
 <li>Paramount</li>
 <li>Sony Pictures</li>
@@ -72,6 +84,20 @@
 <li>Visa</li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="section-44-16" class=" ct-section"></section>
+</td>
+</tr>
+</tbody>
+</table>
+<div id="new_columns-113-16" class="ct-new-columns">
+<div id="div_block-120-16" class="ct-div-block">
+<div id="text_block-123-16" class="ct-text-block"> </div>
 </div>
 </div>
 </div>
