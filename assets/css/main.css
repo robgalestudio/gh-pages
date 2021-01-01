@@ -1018,7 +1018,7 @@ textarea {
   padding: 0;
   position: relative;
   width: auto;
-  text-transform: uppercase;
+  //text-transform: uppercase;
 }
 .navbar .navbar__menu li a,
 .navbar .navbar__menu li span[aria-haspopup=true] {
