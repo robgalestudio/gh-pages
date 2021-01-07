@@ -3,7 +3,7 @@
     <title>Rob Gale | Illustration</title>
     <link href="https://robgale.co/feed.xml" rel="self" />
     <link href="https://robgale.co" />
-    <updated>2020-12-31T16:49:22-08:00</updated>
+    <updated>2021-01-06T17:52:57-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
@@ -141,103 +141,59 @@
         </content>
     </entry>
     <entry>
-        <title>2001</title>
+        <title>Grisley</title>
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgale.co/2001.html"/>
-        <id>https://robgale.co/2001.html</id>
-            <category term="Poster"/>
+        <link href="https://robgale.co/grisley.html"/>
+        <id>https://robgale.co/grisley.html</id>
+            <category term="Personal Project"/>
             <category term="Illustration"/>
 
-        <updated>2020-12-31T16:01:33-08:00</updated>
+        <updated>2021-01-06T17:49:58-08:00</updated>
             <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Bookworm</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/the-bookworm.html"/>
-        <id>https://robgale.co/the-bookworm.html</id>
-            <category term="Illustration"/>
-            <category term="Book Cover"/>
-
-        <updated>2020-12-31T16:02:03-08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Martian</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/the-martian.html"/>
-        <id>https://robgale.co/the-martian.html</id>
-            <category term="Illustration"/>
-            <category term="Book Cover"/>
-
-        <updated>2020-12-31T16:02:11-08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Ran</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/ran.html"/>
-        <id>https://robgale.co/ran.html</id>
-            <category term="Poster"/>
-            <category term="Illustration"/>
-
-        <updated>2020-12-31T16:02:25-08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Macbeth</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/macbeth.html"/>
-        <id>https://robgale.co/macbeth.html</id>
-            <category term="Poster"/>
-            <category term="Illustration"/>
-
-        <updated>2020-12-31T16:02:32-08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Killer Come Back to Me</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/killer-come-back-to-me.html"/>
-        <id>https://robgale.co/killer-come-back-to-me.html</id>
-            <category term="Illustration"/>
-            <category term="Book Interior Illustrations"/>
-
-        <updated>2020-12-31T16:29:48-08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://robgale.co/media/posts/5/rob-gale-not-so-dumb.jpg" alt="I&#x27;m Not So Dumb" />
-                    Interior illustrations for "Killer Come Back to Me" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have&hellip;
-                ]]>
-            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://robgale.co/media/posts/5/rob-gale-not-so-dumb.jpg" alt="I&#x27;m Not So Dumb" />
-                <p class="align-center">Interior illustrations for "Killer Come Back to Me" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have been Bradbury's 100th birthday.</p>
-<p class="align-center">Published by: <em>Hard Case Crime</em></p>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-not-so-dumb-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxxl.jpg 2560w"  alt="I'm Not So Dumb" width="1036" height="1600"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-corpse-carnival.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxxl.jpg 2560w"  alt="Corpse Carnival" width="1036" height="1600"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-dead-men-rise.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxxl.jpg 2560w"  alt="Dead Men Rise Up Never" width="1036" height="1600"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-killer-come-back.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxxl.jpg 2560w"  alt="Killer Come Back to Me" width="1036" height="1600"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-riabouchinska.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxxl.jpg 2560w"  alt="So Died Riabouchinska" width="1036" height="1600"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-town.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-town-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxxl.jpg 2560w"  alt="The Town Where No One Got Off" width="1036" height="1600"></figure>
+                    <img src="https://robgale.co/media/posts/10/card-rob-gale-grisley.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/10/rob-gale-grisley-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xs.jpg 300w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-sm.jpg 480w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-md.jpg 749w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xl.jpg 1200w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xxl.jpg 1600w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xxxl.jpg 2560w"  alt="" width="1137" height="1600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Victorian Thug</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/victorian-thug.html"/>
+        <id>https://robgale.co/victorian-thug.html</id>
+            <category term="Personal Project"/>
+            <category term="Illustration"/>
+
+        <updated>2021-01-06T17:50:14-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/9/card-rob-gale-victorian-thug.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/9/rob-gale-victorian-thug-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xs.jpg 300w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-sm.jpg 480w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-md.jpg 749w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xl.jpg 1200w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xxl.jpg 1600w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cowboy</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/cowboy.html"/>
+        <id>https://robgale.co/cowboy.html</id>
+            <category term="Personal Project"/>
+            <category term="Illustration"/>
+
+        <updated>2021-01-06T17:50:53-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/7/card-rob-gale-cowboy.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/7/rob-gale-cowboy-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xs.jpg 300w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-sm.jpg 480w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-md.jpg 749w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xl.jpg 1200w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xxl.jpg 1600w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
             ]]>
         </content>
     </entry>
@@ -251,36 +207,143 @@
             <category term="Personal Project"/>
             <category term="Illustration"/>
 
-        <updated>2020-12-31T16:02:48-08:00</updated>
+        <updated>2021-01-06T17:50:39-08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/8/card-rob-gale-yojimbo.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/8/rob-gale-yojimbo-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xs.jpg 300w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-sm.jpg 480w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-md.jpg 749w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xl.jpg 1200w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xxl.jpg 1600w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Victorian Thug</title>
+        <title>Black and White</title>
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgale.co/victorian-thug.html"/>
-        <id>https://robgale.co/victorian-thug.html</id>
+        <link href="https://robgale.co/pattern.html"/>
+        <id>https://robgale.co/pattern.html</id>
             <category term="Personal Project"/>
             <category term="Illustration"/>
 
-        <updated>2020-12-31T16:02:55-08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-01-06T17:49:41-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://robgale.co/media/posts/11/card-rob-gale-pattern.jpg" alt="" />
+                    These images are part of an ongoing personal series exploring the possibilities of black and white.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/11/card-rob-gale-pattern.jpg" alt="" />
+                <p class="align-center">These images are part of an ongoing personal series exploring the possibilities of black and white.</p>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-pattern.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xxxl.jpg 2560w"  alt="Pattern" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-swing.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-swing-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xxxl.jpg 2560w"  alt="" width="1600" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-bait.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-bait-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xxxl.jpg 2560w"  alt="Bait" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-misfit.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xxxl.jpg 2560w"  alt="Misfit" width="1600" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-mindless.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xxxl.jpg 2560w"  alt="Mindless" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-ornament.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xxxl.jpg 2560w"  alt="Ornament" width="995" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/11/rob-gale-treasure.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xxxl.jpg 2560w"  alt="Treasure" width="1600" height="1600"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Cowboy</title>
+        <title>Monte Cook Games</title>
         <author>
             <name>Rob Gale</name>
         </author>
-        <link href="https://robgale.co/cowboy.html"/>
-        <id>https://robgale.co/cowboy.html</id>
-            <category term="Personal Project"/>
+        <link href="https://robgale.co/bait.html"/>
+        <id>https://robgale.co/bait.html</id>
+            <category term="Illustration"/>
+            <category term="Game Art"/>
+
+        <updated>2021-01-06T17:49:23-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://robgale.co/media/posts/12/card-rob-gale-liars-scion-02.jpg" alt="" />
+                    Series of character explorations for an upcoming game from Monte Cook Games Publisher: Monte Cook Games
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/12/card-rob-gale-liars-scion-02.jpg" alt="" />
+                <p class="align-center">Series of character explorations for an upcoming game from Monte Cook Games</p>
+<p class="align-center"><em>Publisher: Monte Cook Games</em></p>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/12/rob-gale-liars-scion-02.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/12/rob-gale-liars-scion-01.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/12/rob-gale-liars-sleeper-02.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/12/rob-gale-liars-sleeper-01.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Killer Come Back to Me</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/killer-come-back-to-me.html"/>
+        <id>https://robgale.co/killer-come-back-to-me.html</id>
+            <category term="Illustration"/>
+            <category term="Book Interior Illustrations"/>
+
+        <updated>2021-01-06T17:51:36-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://robgale.co/media/posts/5/card-rob-gale-not-so-dumb.jpg" alt="I&#x27;m Not So Dumb" />
+                    Interior illustrations for "Killer Come Back to Me" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/5/card-rob-gale-not-so-dumb.jpg" alt="I&#x27;m Not So Dumb" />
+                <p class="align-center">Interior illustrations for "Killer Come Back to Me" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have been Bradbury's 100th birthday.</p>
+<p class="align-center">Published by: <em>Hard Case Crime</em></p>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-not-so-dumb-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxxl.jpg 2560w"  alt="I'm Not So Dumb" width="1036" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-corpse-carnival.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxxl.jpg 2560w"  alt="Corpse Carnival" width="1036" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-dead-men-rise.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxxl.jpg 2560w"  alt="Dead Men Rise Up Never" width="1036" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-killer-come-back.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxxl.jpg 2560w"  alt="Killer Come Back to Me" width="1036" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-riabouchinska.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxxl.jpg 2560w"  alt="So Died Riabouchinska" width="1036" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/5/rob-gale-town.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/5/responsive/rob-gale-town-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxxl.jpg 2560w"  alt="The Town Where No One Got Off" width="1036" height="1600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Macbeth</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/macbeth.html"/>
+        <id>https://robgale.co/macbeth.html</id>
+            <category term="Poster"/>
             <category term="Illustration"/>
 
-        <updated>2020-12-31T16:03:30-08:00</updated>
+        <updated>2021-01-06T17:52:57-08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/1/card-rob-gale-macbeth-v2.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/1/rob-gale-macbeth-v2-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxxl.jpg 2560w"  alt="" width="1074" height="1600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/1/rob-gale-macbeth-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxxl.jpg 2560w"  alt="" width="1074" height="1600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Martian</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/the-martian.html"/>
+        <id>https://robgale.co/the-martian.html</id>
+            <category term="Illustration"/>
+            <category term="Book Cover"/>
+
+        <updated>2021-01-06T17:52:16-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robgale.co/media/posts/3/card-rob-gale-martian.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/3/rob-gale-martian-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xs.jpg 300w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-sm.jpg 480w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-md.jpg 749w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xl.jpg 1200w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxl.jpg 1600w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>
