@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://robgale.co/daily-2021.html",
+            "url": "https://robgale.co/daily-2021.html",
+            "title": "Daily Sketches 2021",
+            "summary": "Daily sketches and experiments.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://robgale.co/media/posts/17//gallery/2021-01-27.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://robgale.co/media/posts/17//gallery/2021-01-27-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>\n<p class=\"align-center\">Daily sketches and experiments.</p>",
+            "author": {
+                "name": "Rob Gale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-27T15:19:11-08:00",
+            "date_modified": "2021-01-27T15:22:08-08:00"
+        },
+        {
             "id": "https://robgale.co/about-contact.html",
             "url": "https://robgale.co/about-contact.html",
             "title": "About",
@@ -154,22 +168,6 @@
             ],
             "date_published": "2020-01-01T00:02:00-08:00",
             "date_modified": "2021-01-06T17:52:57-08:00"
-        },
-        {
-            "id": "https://robgale.co/the-martian.html",
-            "url": "https://robgale.co/the-martian.html",
-            "title": "The Martian",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/3/rob-gale-martian-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xs.jpg 300w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-sm.jpg 480w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-md.jpg 749w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xl.jpg 1200w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxl.jpg 1600w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/3/card-rob-gale-martian.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Illustration",
-                   "Book Cover"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-07T15:58:13-08:00"
         }
     ]
 }

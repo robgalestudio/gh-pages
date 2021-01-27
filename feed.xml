@@ -3,12 +3,35 @@
     <title>Rob Gale | Illustration + Design</title>
     <link href="https://robgale.co/feed.xml" rel="self" />
     <link href="https://robgale.co" />
-    <updated>2021-01-07T16:02:23-08:00</updated>
+    <updated>2021-01-27T15:22:08-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://robgale.co</id>
 
+    <entry>
+        <title>Daily Sketches 2021</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://robgale.co/daily-2021.html"/>
+        <id>https://robgale.co/daily-2021.html</id>
+
+        <updated>2021-01-27T15:22:08-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Daily sketches and experiments.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://robgale.co/media/posts/17//gallery/2021-01-27.jpg" data-size="1920x1080"><img loading="lazy" src="https://robgale.co/media/posts/17//gallery/2021-01-27-thumbnail.jpg" alt="" width="480" height="270"></a></figure>
+</div></div>
+<p class="align-center">Daily sketches and experiments.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
@@ -256,25 +279,6 @@
                     <img src="https://robgale.co/media/posts/1/card-rob-gale-macbeth-v2.jpg" alt="" />
                 <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/1/rob-gale-macbeth-v2-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxxl.jpg 2560w"  alt="" width="1074" height="1600"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/1/rob-gale-macbeth-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxxl.jpg 2560w"  alt="" width="1074" height="1600"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Martian</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://robgale.co/the-martian.html"/>
-        <id>https://robgale.co/the-martian.html</id>
-            <category term="Illustration"/>
-            <category term="Book Cover"/>
-
-        <updated>2021-01-07T15:58:13-08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://robgale.co/media/posts/3/card-rob-gale-martian.jpg" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://robgale.co/media/posts/3/rob-gale-martian-2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xs.jpg 300w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-sm.jpg 480w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-md.jpg 749w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xl.jpg 1200w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxl.jpg 1600w ,https://robgale.co/media/posts/3/responsive/rob-gale-martian-2-xxxl.jpg 2560w"  alt="" width="1067" height="1600"></figure>
             ]]>
         </content>
     </entry>
