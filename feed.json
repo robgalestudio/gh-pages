@@ -1,173 +1,39 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Rob Gale | Illustration + Design",
+    "title": "smpltn",
     "description": "",
-    "home_page_url": "https://robgale.co",
-    "feed_url": "https://robgale.co/feed.json",
+    "home_page_url": "https://smpltn.com",
+    "feed_url": "https://smpltn.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Rob Gale"
     },
     "items": [
         {
-            "id": "https://robgale.co/daily-2021.html",
-            "url": "https://robgale.co/daily-2021.html",
-            "title": "Daily Sketches 2021",
-            "summary": "Daily sketches and experiments.",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://robgale.co/media/posts/17//gallery/2021-01-27.jpg\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://robgale.co/media/posts/17//gallery/2021-01-27-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"270\"></a></figure>\n</div></div>\n<p class=\"align-center\">Daily sketches and experiments.</p>",
+            "id": "https://smpltn.com/ahoy.html",
+            "url": "https://smpltn.com/ahoy.html",
+            "title": "Ahoy!",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://smpltn.com/media/posts/2/2021-02-22.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/2/responsive/2021-02-22-xs.jpg 384w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-sm.jpg 600w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-md.jpg 768w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-lg.jpg 1200w\"  alt=\"Ahoy!\" width=\"1920\" height=\"1080\"></figure>",
             "author": {
                 "name": "Rob Gale"
             },
             "tags": [
             ],
-            "date_published": "2021-01-27T15:19:11-08:00",
-            "date_modified": "2021-01-27T15:22:08-08:00"
+            "date_published": "2021-03-11T17:59:45-08:00",
+            "date_modified": "2021-03-11T17:59:45-08:00"
         },
         {
-            "id": "https://robgale.co/about-contact.html",
-            "url": "https://robgale.co/about-contact.html",
-            "title": "About",
-            "summary": "My name is Rob Gale, I am a freelance illustrator and designer with two decades of experience working in publishing, gaming and advertising. I love&hellip;",
-            "content_html": "<p>My name is Rob Gale, I am a freelance illustrator and designer with two decades of experience working in publishing, gaming and advertising. I love collaborating to generate big ideas and create immersive experiences for the audience. Whether it’s a full-blown visual system for an online brand, a motion graphic piece, or an arresting image, I take pride in doing my part to make sure the customer is absolutely delighted down to the last pixel.</p>\n<p>I can be reached via email at <a href=\"mailto: rob@robgale.co\" target=\"_blank\" rel=\"noopener noreferrer\">rob@robgale</a>.</p>\n<p>I got into the digital design business straight out of art school where I studied film and new media. It was the late 90s, and the Web was still a lot like the Wild West. People hadn’t yet developed strong ideas of what was and was not possible, and I loved the energy of discovering this new world, enchanted by the infinite possibilities of the medium. It was a perfect fit for my multi-disciplinary background as an artist, filmmaker and kid who grew up tinkering with computers since my first Apple II+.</p>\n<p>Early in my career I distinguished myself as a designer who could create emotional impact through interweaving image, motion and sound into immersive interactive experiences. I had the opportunity to collaborate on several award winning digital experiences for the entertainment industry, including work on a handful of dream projects for the Star Wars franchise as well as work for EA, New Line, Sony Pictures, and a number of incredible clients.</p>\n<p>As I developed as an artist, I found myself longing for a stronger connection to the fundamental building blocks of visual communication. And so I decided to undertake a rigorous course of study to master the art of drawing, a skill that I consider absolutely fundamental to truly connecting with the human imagination. In an age of computer assisted creative production, I saw that the people who I admired most had this tightly coupled relationship between what they saw in their imagination and what they made with their hands.</p>\n<p>These days my work is a mixture of computer aided design and hand crafted narrative work and a search for the creative spark that is found when worlds collide. It is, in the end, a search for the experience of wonder both in the creative process and in the viewer’s experience of the final product.</p>\n<h3>Partial Client List</h3>\n<div class=\"post__col-container\">\n<div class=\"post__2col-item\">\n<div>Electronic Arts</div>\n<div>Jose Cuervo</div>\n<div>J.P. Morgan</div>\n<div>Hallmark</div>\n<div>Kashi</div>\n<div>Kellog's</div>\n<div>LucasFilm</div>\n<div>FX Networks</div>\n<div>GE</div>\n<div>Hard Case Crime</div>\n<div>Mattel</div>\n</div>\n<div class=\"post__2col-item\">\n<div>Microsoft</div>\n<div>Naked Juice</div>\n<div>Nissan</div>\n<div>New Line</div>\n<div>Paramount</div>\n<div>Sony Pictures</div>\n<div>Ubisoft</div>\n<div>Umbra 3D</div>\n<div>Warner Bros</div>\n<div>Visa</div>\n</div>\n</div>\n<h3>Testimonials</h3>\n<p>I've known and worked with Rob for more than seven years, and I have always found his work to be well-executed and delivered on time. Rob is a very talented designer and artist, and he has a personality that makes working with him an extremely positive experience.<br><em>– Ian Burns, Group Creative Director | HUGE</em></p>\n<p>Rob is a creative powerhouse, fine tuning every comp to maximize cool factor and polish. His contribution of motion graphics and art direction went a long way towards helping us win the first Spider-Man movie online campaign. He is a product of the Star Wars, anime and sci-fi generation and it shows in his work.<br><em>– Perry Wang, VP &amp; Co-Founder | Trigger Global</em></p>\n<p>Great creative is one of the key factors for an agency to win new accounts, solve client's business goals and engage consumers. I have had the pleasure to work with most of the top creative talent in LA and I can easily say that Rob Gale is one of the best. He is smart, multi-disciplined and fast. Every time I've worked with Rob I've won accounts, solved client's business goals and delivered impact to consumers.<br><em>– Gregg Apirian, Managing Director | Vignette</em></p>",
+            "id": "https://smpltn.com/blocks.html",
+            "url": "https://smpltn.com/blocks.html",
+            "title": "Blocks",
+            "content_html": "<div style=\"padding: 0 0 0 0; position: relative;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://player.vimeo.com/video/520201611?loop=1&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></div>\n<p>\n<script src=\"https://player.vimeo.com/api/player.js\"></script>\n</p>",
             "author": {
                 "name": "Rob Gale"
             },
             "tags": [
             ],
-            "date_published": "2020-12-30T12:01:23-08:00",
-            "date_modified": "2021-01-07T16:02:23-08:00"
-        },
-        {
-            "id": "https://robgale.co/grisley.html",
-            "url": "https://robgale.co/grisley.html",
-            "title": "Grisley",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/10/rob-gale-grisley-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xs.jpg 300w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-sm.jpg 480w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-md.jpg 749w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xl.jpg 1200w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xxl.jpg 1600w ,https://robgale.co/media/posts/10/responsive/rob-gale-grisley-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1137\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/10/card-rob-gale-grisley.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Personal Project",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-07T15:14:39-08:00"
-        },
-        {
-            "id": "https://robgale.co/victorian-thug.html",
-            "url": "https://robgale.co/victorian-thug.html",
-            "title": "Victorian Thug",
-            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/9/rob-gale-victorian-thug-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xs.jpg 300w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-sm.jpg 480w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-md.jpg 749w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xl.jpg 1200w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xxl.jpg 1600w ,https://robgale.co/media/posts/9/responsive/rob-gale-victorian-thug-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/9/card-rob-gale-victorian-thug.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Personal Project",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-07T15:14:31-08:00"
-        },
-        {
-            "id": "https://robgale.co/cowboy.html",
-            "url": "https://robgale.co/cowboy.html",
-            "title": "Cowboy",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/7/rob-gale-cowboy-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xs.jpg 300w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-sm.jpg 480w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-md.jpg 749w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xl.jpg 1200w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xxl.jpg 1600w ,https://robgale.co/media/posts/7/responsive/rob-gale-cowboy-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/7/card-rob-gale-cowboy.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Personal Project",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-06T17:50:53-08:00"
-        },
-        {
-            "id": "https://robgale.co/yojimbo.html",
-            "url": "https://robgale.co/yojimbo.html",
-            "title": "Yojimbo",
-            "summary": "Personal Project inspired by the film by Akira Kurosawa",
-            "content_html": "<p class=\"align-center\">Personal Project inspired by the film by Akira Kurosawa</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/8/rob-gale-yojimbo-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xs.jpg 300w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-sm.jpg 480w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-md.jpg 749w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xl.jpg 1200w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xxl.jpg 1600w ,https://robgale.co/media/posts/8/responsive/rob-gale-yojimbo-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/8/card-rob-gale-yojimbo.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Personal Project",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-07T15:13:55-08:00"
-        },
-        {
-            "id": "https://robgale.co/pattern.html",
-            "url": "https://robgale.co/pattern.html",
-            "title": "Black and White",
-            "summary": "These images are part of an ongoing personal series exploring the possibilities of black and white.",
-            "content_html": "<p class=\"align-center\">These images are part of an ongoing personal series exploring the possibilities of black and white.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-pattern.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-pattern-xxxl.jpg 2560w\"  alt=\"Pattern\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-swing.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-swing-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-swing-xxxl.jpg 2560w\"  alt=\"\" width=\"1600\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-bait.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-bait-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-bait-xxxl.jpg 2560w\"  alt=\"Bait\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-misfit.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-misfit-xxxl.jpg 2560w\"  alt=\"Misfit\" width=\"1600\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-mindless.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-mindless-xxxl.jpg 2560w\"  alt=\"Mindless\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-ornament.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-ornament-xxxl.jpg 2560w\"  alt=\"Ornament\" width=\"995\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/11/rob-gale-treasure.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xs.jpg 300w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-sm.jpg 480w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-md.jpg 749w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xl.jpg 1200w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xxl.jpg 1600w ,https://robgale.co/media/posts/11/responsive/rob-gale-treasure-xxxl.jpg 2560w\"  alt=\"Treasure\" width=\"1600\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/11/card-rob-gale-pattern.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Personal Project",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-06T17:49:41-08:00"
-        },
-        {
-            "id": "https://robgale.co/bait.html",
-            "url": "https://robgale.co/bait.html",
-            "title": "Monte Cook Games",
-            "summary": "Series of character explorations for an upcoming game from Monte Cook Games Publisher: Monte Cook Games",
-            "content_html": "<p class=\"align-center\">Series of character explorations for an upcoming game from Monte Cook Games</p>\n<p class=\"align-center\"><em>Publisher: Monte Cook Games</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/12/rob-gale-liars-scion-02.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-02-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/12/rob-gale-liars-scion-01.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-scion-01-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/12/rob-gale-liars-sleeper-02.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-02-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/12/rob-gale-liars-sleeper-01.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xs.jpg 300w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-sm.jpg 480w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-md.jpg 749w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xl.jpg 1200w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xxl.jpg 1600w ,https://robgale.co/media/posts/12/responsive/rob-gale-liars-sleeper-01-xxxl.jpg 2560w\"  alt=\"\" width=\"1067\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/12/card-rob-gale-liars-scion-02.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Illustration",
-                   "Game Art"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-06T17:49:23-08:00"
-        },
-        {
-            "id": "https://robgale.co/killer-come-back-to-me.html",
-            "url": "https://robgale.co/killer-come-back-to-me.html",
-            "title": "Killer Come Back to Me",
-            "summary": "Interior illustrations for \"Killer Come Back to Me\" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have&hellip;",
-            "content_html": "<p class=\"align-center\">Interior illustrations for \"Killer Come Back to Me\" an anthology of Ray Bradbury's crime stories. The book was published in celebration of what would have been Bradbury's 100th birthday.</p>\n<p class=\"align-center\"><em>Published by: Hard Case Crime</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-not-so-dumb-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-not-so-dumb-2-xxxl.jpg 2560w\"  alt=\"I'm Not So Dumb\" width=\"1036\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-corpse-carnival.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-corpse-carnival-xxxl.jpg 2560w\"  alt=\"Corpse Carnival\" width=\"1036\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-dead-men-rise.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-dead-men-rise-xxxl.jpg 2560w\"  alt=\"Dead Men Rise Up Never\" width=\"1036\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-killer-come-back.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-killer-come-back-xxxl.jpg 2560w\"  alt=\"Killer Come Back to Me\" width=\"1036\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-riabouchinska.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-riabouchinska-xxxl.jpg 2560w\"  alt=\"So Died Riabouchinska\" width=\"1036\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/5/rob-gale-town.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/5/responsive/rob-gale-town-xs.jpg 300w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-sm.jpg 480w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-md.jpg 749w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xl.jpg 1200w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxl.jpg 1600w ,https://robgale.co/media/posts/5/responsive/rob-gale-town-xxxl.jpg 2560w\"  alt=\"The Town Where No One Got Off\" width=\"1036\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/5/card-rob-gale-not-so-dumb.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Illustration",
-                   "Book Interior Illustrations"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-07T15:15:12-08:00"
-        },
-        {
-            "id": "https://robgale.co/macbeth.html",
-            "url": "https://robgale.co/macbeth.html",
-            "title": "Macbeth",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/1/rob-gale-macbeth-v2-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-v2-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1074\" height=\"1600\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://robgale.co/media/posts/1/rob-gale-macbeth-2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xs.jpg 300w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-sm.jpg 480w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-md.jpg 749w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xl.jpg 1200w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxl.jpg 1600w ,https://robgale.co/media/posts/1/responsive/rob-gale-macbeth-2-xxxl.jpg 2560w\"  alt=\"\" width=\"1074\" height=\"1600\"></figure>",
-            "image": "https://robgale.co/media/posts/1/card-rob-gale-macbeth-v2.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "Poster",
-                   "Illustration"
-            ],
-            "date_published": "2020-01-01T00:02:00-08:00",
-            "date_modified": "2021-01-06T17:52:57-08:00"
+            "date_published": "2021-03-11T17:39:56-08:00",
+            "date_modified": "2021-03-11T18:03:10-08:00"
         }
     ]
 }
