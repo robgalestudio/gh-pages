@@ -5,6 +5,7 @@
     "home_page_url": "https://smpltn.com",
     "feed_url": "https://smpltn.com/feed.json",
     "user_comment": "",
+    "icon": "https://smpltn.com/media/website/logo-2.png",
     "author": {
         "name": "Rob Gale"
     },
