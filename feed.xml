@@ -3,28 +3,12 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-11T18:03:10-08:00</updated>
+    <updated>2021-03-14T10:01:39-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
-    <entry>
-        <title>Ahoy!</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/ahoy.html"/>
-        <id>https://smpltn.com/ahoy.html</id>
-
-        <updated>2021-03-11T17:59:45-08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://smpltn.com/media/posts/2/2021-02-22.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/2/responsive/2021-02-22-xs.jpg 384w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-sm.jpg 600w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-md.jpg 768w ,https://smpltn.com/media/posts/2/responsive/2021-02-22-lg.jpg 1200w"  alt="Ahoy!" width="1920" height="1080"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Blocks</title>
         <author>
@@ -32,15 +16,273 @@
         </author>
         <link href="https://smpltn.com/blocks.html"/>
         <id>https://smpltn.com/blocks.html</id>
+            <category term="animation"/>
 
-        <updated>2021-03-11T18:03:10-08:00</updated>
-            <summary></summary>
+        <updated>2021-03-14T10:01:39-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/30/2021-03-02.jpg" alt="Blocks" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div style="padding: 0 0 0 0; position: relative;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/520201611?loop=1&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></div>
-<p>
-<script src="https://player.vimeo.com/api/player.js"></script>
-</p>
+                    <img src="https://smpltn.com/media/posts/30/2021-03-02.jpg" alt="Blocks" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/520201611?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bouncy Things 02</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/bouncy-things-02.html"/>
+        <id>https://smpltn.com/bouncy-things-02.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T10:00:20-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/29/2021-02-25.jpg" alt="Bouncy Things 02" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/29/2021-02-25.jpg" alt="Bouncy Things 02" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/517416060?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Rules of the Game</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/the-rules-of-the-game.html"/>
+        <id>https://smpltn.com/the-rules-of-the-game.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:59:05-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/28/2021-02-24.jpg" alt="The Rules of the Game" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/28/2021-02-24.jpg" alt="The Rules of the Game" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/516886916?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Northlander</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/northlander.html"/>
+        <id>https://smpltn.com/northlander.html</id>
+            <category term="styleframes"/>
+
+        <updated>2021-03-14T09:57:47-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/27/2021-02-22.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/27/responsive/2021-02-22-xs.jpg 384w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-sm.jpg 600w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-md.jpg 768w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bouncy Things</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/bouncy-things.html"/>
+        <id>https://smpltn.com/bouncy-things.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:56:41-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/26/2021-02-19.jpg" alt="Bouncy Things" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/26/2021-02-19.jpg" alt="Bouncy Things" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/514513112?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Wind Will Carry Us</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/the-wind-will-carry-us.html"/>
+        <id>https://smpltn.com/the-wind-will-carry-us.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:55:27-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/25/2021-02-18.jpg" alt="The Wind Will Carry Us" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/25/2021-02-18.jpg" alt="The Wind Will Carry Us" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/514097001?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Circles 02</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/circles-02.html"/>
+        <id>https://smpltn.com/circles-02.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:53:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/24/2021-02-17.jpg" alt="Circles 02" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/24/2021-02-17.jpg" alt="Circles 02" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/513646116?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Circles 01</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/circles-01.html"/>
+        <id>https://smpltn.com/circles-01.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:51:24-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/23/2021-02-16.jpg" alt="Circles 01" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/23/2021-02-16.jpg" alt="Circles 01" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/513199009?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Underground</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/underground.html"/>
+        <id>https://smpltn.com/underground.html</id>
+            <category term="animation"/>
+
+        <updated>2021-03-14T09:49:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/22/2021-02-15.jpg" alt="Between the Underground and the Albert Hall" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/22/2021-02-15.jpg" alt="Between the Underground and the Albert Hall" />
+                <div><figure class="post__video">
+    <iframe loading="lazy" src="https://player.vimeo.com/video/512762174?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Creativity</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/creativity.html"/>
+        <id>https://smpltn.com/creativity.html</id>
+            <category term="styleframes"/>
+
+        <updated>2021-03-14T09:27:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/21/2021-02-12-004-2.jpg" alt="Creativity will always look after itself if you are prolific in production" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/21/2021-02-12-004-2.jpg" alt="Creativity will always look after itself if you are prolific in production" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-001-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-002.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-002-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-003-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-004-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
             ]]>
         </content>
     </entry>
