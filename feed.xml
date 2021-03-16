@@ -3,12 +3,39 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-14T10:01:39-07:00</updated>
+    <updated>2021-03-15T18:17:05-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>Bird Girl</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/bird-girl.html"/>
+        <id>https://smpltn.com/bird-girl.html</id>
+            <category term="styleframes"/>
+
+        <updated>2021-03-15T18:17:05-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg" alt="Bird Girl" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg" alt="Bird Girl" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blocks</title>
         <author>
@@ -241,48 +268,6 @@
     <iframe loading="lazy" src="https://player.vimeo.com/video/512762174?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Creativity</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/creativity.html"/>
-        <id>https://smpltn.com/creativity.html</id>
-            <category term="styleframes"/>
-
-        <updated>2021-03-14T09:27:58-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/21/2021-02-12-004-2.jpg" alt="Creativity will always look after itself if you are prolific in production" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/21/2021-02-12-004-2.jpg" alt="Creativity will always look after itself if you are prolific in production" />
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-001-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-001-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-002.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-002-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-002-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-003-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-003-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/21/2021-02-12-004-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-xs.jpg 384w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-sm.jpg 600w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-md.jpg 768w ,https://smpltn.com/media/posts/21/responsive/2021-02-12-004-3-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
             ]]>
         </content>
     </entry>
