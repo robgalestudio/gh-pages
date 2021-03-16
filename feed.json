@@ -14,8 +14,8 @@
             "id": "https://smpltn.com/bird-girl.html",
             "url": "https://smpltn.com/bird-girl.html",
             "title": "Bird Girl",
-            "summary": " ",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>",
+            "summary": " I had this painting of this girl I had done sometime last year, and I always liked it, but&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    I had this painting of this girl I had done sometime last year, and I always liked it, but it never felt finished, so I thought I would try to do something with it. This is the result.&nbsp;\n  </p>",
             "image": "https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -24,7 +24,7 @@
                    "styleframes"
             ],
             "date_published": "2021-03-15T18:17:05-07:00",
-            "date_modified": "2021-03-15T18:17:05-07:00"
+            "date_modified": "2021-03-15T18:22:08-07:00"
         },
         {
             "id": "https://smpltn.com/blocks.html",

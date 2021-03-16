@@ -3,7 +3,7 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-15T18:17:05-07:00</updated>
+    <updated>2021-03-15T18:22:08-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
@@ -18,11 +18,11 @@
         <id>https://smpltn.com/bird-girl.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-15T18:17:05-07:00</updated>
+        <updated>2021-03-15T18:22:08-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg" alt="Bird Girl" />
-                     
+                     I had this painting of this girl I had done sometime last year, and I always liked it, but&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -33,6 +33,10 @@
       <img loading="lazy" src="https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w"  height="1080" width="1920" alt="" />
       
     </figure>
+
+  <p>
+    I had this painting of this girl I had done sometime last year, and I always liked it, but it never felt finished, so I thought I would try to do something with it. This is the result.&nbsp;
+  </p>
             ]]>
         </content>
     </entry>
