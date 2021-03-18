@@ -3,12 +3,48 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-18T09:32:49-07:00</updated>
+    <updated>2021-03-18T16:02:08-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>I Heart Peppers</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/i-heart-peppers.html"/>
+        <id>https://smpltn.com/i-heart-peppers.html</id>
+            <category term="styleframes"/>
+            <category term="illustration"/>
+
+        <updated>2021-03-18T16:02:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/33/2021-03-18.jpg" alt="I Heart Peppers" />
+                     I've been having loads of fun creating scenes that use a lot of collage elements with the central character&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/33/2021-03-18.jpg" alt="I Heart Peppers" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/33/2021-03-18-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/33/responsive/2021-03-18-2-xs.jpg 384w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-sm.jpg 600w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-md.jpg 768w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+  <p>
+    I've been having loads of fun creating scenes that use a lot of collage elements with the central character painted and assembled in Photoshop.&nbsp;
+  </p>
+
+  <p>
+    Images from <a href="https://unsplash.com/" target="_blank">Unsplash</a>:&nbsp;<a href="https://unsplash.com/photos/m1MRYp556Ew" target="_blank">T-Shirt</a>,&nbsp;<a href="https://unsplash.com/photos/KT7Fqi7F1pk" target="_blank">Diner</a> and <a href="https://unsplash.com/photos/wlIB1M8YTnY" class="" target="_blank">Smoke</a>.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Laughing at Batman</title>
         <author>
@@ -245,32 +281,6 @@
                     <img src="https://smpltn.com/media/posts/24/2021-02-17.jpg" alt="Circles 02" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/513646116?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Circles 01</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/circles-01.html"/>
-        <id>https://smpltn.com/circles-01.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:51:24-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/23/2021-02-16.jpg" alt="Circles 01" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/23/2021-02-16.jpg" alt="Circles 01" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/513199009?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
             ]]>
