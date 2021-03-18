@@ -3,12 +3,39 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-15T18:22:08-07:00</updated>
+    <updated>2021-03-18T09:32:49-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>Laughing at Batman</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/laughing-at-batman.html"/>
+        <id>https://smpltn.com/laughing-at-batman.html</id>
+            <category term="illustration"/>
+
+        <updated>2021-03-18T09:32:49-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/32/2021-03-16-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/32/responsive/2021-03-16-2-xs.jpg 384w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-sm.jpg 600w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-md.jpg 768w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bird Girl</title>
         <author>
@@ -244,32 +271,6 @@
                     <img src="https://smpltn.com/media/posts/23/2021-02-16.jpg" alt="Circles 01" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/513199009?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Underground</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/underground.html"/>
-        <id>https://smpltn.com/underground.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:49:56-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/22/2021-02-15.jpg" alt="Between the Underground and the Albert Hall" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/22/2021-02-15.jpg" alt="Between the Underground and the Albert Hall" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/512762174?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
             ]]>
