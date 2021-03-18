@@ -3,7 +3,7 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-18T16:03:40-07:00</updated>
+    <updated>2021-03-18T16:05:54-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
@@ -52,9 +52,10 @@
         </author>
         <link href="https://smpltn.com/laughing-at-batman.html"/>
         <id>https://smpltn.com/laughing-at-batman.html</id>
+            <category term="styleframes"/>
             <category term="illustration"/>
 
-        <updated>2021-03-18T16:03:40-07:00</updated>
+        <updated>2021-03-18T16:05:54-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
