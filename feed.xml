@@ -3,12 +3,53 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-18T16:30:15-07:00</updated>
+    <updated>2021-03-23T16:13:29-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>Beware the Bat Cave</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/beware-the-bat-cave.html"/>
+        <id>https://smpltn.com/beware-the-bat-cave.html</id>
+            <category term="styleframes"/>
+            <category term="illustration"/>
+
+        <updated>2021-03-23T16:13:29-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/34/2021-03-23.jpg" alt="" />
+                     With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/34/2021-03-23.jpg" alt="" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/34/2021-03-23-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/34/responsive/2021-03-23-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+  <p>
+    With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start the process of designing the environment in 3D. I'm a little slow with it because I'm just getting familiar with the way it works, but I can see how it could help speed the process along once I know what I'm doing. The trick is to keep it simple, knowing that I'm going to be going over everything with more detail in Photoshop.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/34/2021-03-23-2-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      <figcaption>3D render from Blender</figcaption>
+    </figure>
+
+  <p>
+    Once I had the basic block in of the environment and the lighting set up, I went into photoshop to add all the textures and the characters to the environment. As I often do, I found most of the textures here from a variety of photographers on <a href="https://unsplash.com/">Unsplash</a>.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I Heart Peppers</title>
         <author>
@@ -256,32 +297,6 @@
                     <img src="https://smpltn.com/media/posts/25/2021-02-18.jpg" alt="The Wind Will Carry Us" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/514097001?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Circles 02</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/circles-02.html"/>
-        <id>https://smpltn.com/circles-02.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:53:30-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/24/2021-02-17.jpg" alt="Circles 02" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/24/2021-02-17.jpg" alt="Circles 02" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/513646116?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
             ]]>

@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://smpltn.com/beware-the-bat-cave.html",
+            "url": "https://smpltn.com/beware-the-bat-cave.html",
+            "title": "Beware the Bat Cave",
+            "summary": " With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/34/2021-03-23-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/34/responsive/2021-03-23-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start the process of designing the environment in 3D. I'm a little slow with it because I'm just getting familiar with the way it works, but I can see how it could help speed the process along once I know what I'm doing. The trick is to keep it simple, knowing that I'm going to be going over everything with more detail in Photoshop.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/34/2021-03-23-2-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      <figcaption>3D render from Blender</figcaption>\n    </figure>\n\n  <p>\n    Once I had the basic block in of the environment and the lighting set up, I went into photoshop to add all the textures and the characters to the environment. As I often do, I found most of the textures here from a variety of photographers on <a href=\"https://unsplash.com/\">Unsplash</a>.\n  </p>",
+            "image": "https://smpltn.com/media/posts/34/2021-03-23.jpg",
+            "author": {
+                "name": "Rob Gale"
+            },
+            "tags": [
+                   "styleframes",
+                   "illustration"
+            ],
+            "date_published": "2021-03-23T15:59:42-07:00",
+            "date_modified": "2021-03-23T16:13:29-07:00"
+        },
+        {
             "id": "https://smpltn.com/i-heart-peppers.html",
             "url": "https://smpltn.com/i-heart-peppers.html",
             "title": "I Heart Peppers",
@@ -155,22 +172,6 @@
             ],
             "date_published": "2021-02-18T09:54:00-08:00",
             "date_modified": "2021-03-14T09:55:27-07:00"
-        },
-        {
-            "id": "https://smpltn.com/circles-02.html",
-            "url": "https://smpltn.com/circles-02.html",
-            "title": "Circles 02",
-            "summary": " ",
-            "content_html": "<div><figure class=\"post__video\">\n    <iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/513646116?loop=1&title=0&byline=0&portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>\n</figure>\n</div>",
-            "image": "https://smpltn.com/media/posts/24/2021-02-17.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "animation"
-            ],
-            "date_published": "2021-02-17T09:52:00-08:00",
-            "date_modified": "2021-03-14T09:53:30-07:00"
         }
     ]
 }
