@@ -3,12 +3,48 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-23T16:13:29-07:00</updated>
+    <updated>2021-03-24T11:47:04-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>The Walking Tree</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/the-walking-tree.html"/>
+        <id>https://smpltn.com/the-walking-tree.html</id>
+            <category term="styleframes"/>
+            <category term="illustration"/>
+
+        <updated>2021-03-24T11:47:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/35/2021-03-24.jpg" alt="" />
+                     The Walking Tree There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/35/2021-03-24.jpg" alt="" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://smpltn.com/media/posts/35/2021-03-24-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/35/responsive/2021-03-24-2-xs.jpg 384w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-sm.jpg 600w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-md.jpg 768w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
+      <figcaption>The Walking Tree</figcaption>
+    </figure>
+
+  <p>
+    There's this fantastic extension for Blender called <a href="https://gumroad.com/discover?query=quickcurve#EmBrX" target="_blank">Quick Curve</a> available on Gumroad. It allows you to "draw" in 3D space in Blender. It's hard to explain but it essentially lets you create quick, albeit rough 3D sketches and build out interesting organic forms quickly in Blender. It's targeted at concept artists and painters. It allowed me to quickly create a tree in 3D space, light it and bring it into photoshop to adjust and texture it and add it to my scene.&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Beware the Bat Cave</title>
         <author>
@@ -271,32 +307,6 @@
                     <img src="https://smpltn.com/media/posts/26/2021-02-19.jpg" alt="Bouncy Things" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/514513112?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Wind Will Carry Us</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/the-wind-will-carry-us.html"/>
-        <id>https://smpltn.com/the-wind-will-carry-us.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:55:27-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/25/2021-02-18.jpg" alt="The Wind Will Carry Us" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/25/2021-02-18.jpg" alt="The Wind Will Carry Us" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/514097001?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
             ]]>

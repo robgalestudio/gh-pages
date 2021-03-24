@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://smpltn.com/the-walking-tree.html",
+            "url": "https://smpltn.com/the-walking-tree.html",
+            "title": "The Walking Tree",
+            "summary": " The Walking Tree There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/35/2021-03-24-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/35/responsive/2021-03-24-2-xs.jpg 384w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-sm.jpg 600w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-md.jpg 768w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      <figcaption>The Walking Tree</figcaption>\n    </figure>\n\n  <p>\n    There's this fantastic extension for Blender called <a href=\"https://gumroad.com/discover?query=quickcurve#EmBrX\" target=\"_blank\">Quick Curve</a> available on Gumroad. It allows you to \"draw\" in 3D space in Blender. It's hard to explain but it essentially lets you create quick, albeit rough 3D sketches and build out interesting organic forms quickly in Blender. It's targeted at concept artists and painters. It allowed me to quickly create a tree in 3D space, light it and bring it into photoshop to adjust and texture it and add it to my scene.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://smpltn.com/media/posts/35/2021-03-24.jpg",
+            "author": {
+                "name": "Rob Gale"
+            },
+            "tags": [
+                   "styleframes",
+                   "illustration"
+            ],
+            "date_published": "2021-03-24T11:47:04-07:00",
+            "date_modified": "2021-03-24T11:47:04-07:00"
+        },
+        {
             "id": "https://smpltn.com/beware-the-bat-cave.html",
             "url": "https://smpltn.com/beware-the-bat-cave.html",
             "title": "Beware the Bat Cave",
@@ -156,22 +173,6 @@
             ],
             "date_published": "2021-02-19T09:55:00-08:00",
             "date_modified": "2021-03-14T09:56:41-07:00"
-        },
-        {
-            "id": "https://smpltn.com/the-wind-will-carry-us.html",
-            "url": "https://smpltn.com/the-wind-will-carry-us.html",
-            "title": "The Wind Will Carry Us",
-            "summary": " ",
-            "content_html": "<div><figure class=\"post__video\">\n    <iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/514097001?loop=1&title=0&byline=0&portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>\n</figure>\n</div>",
-            "image": "https://smpltn.com/media/posts/25/2021-02-18.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "animation"
-            ],
-            "date_published": "2021-02-18T09:54:00-08:00",
-            "date_modified": "2021-03-14T09:55:27-07:00"
         }
     ]
 }
