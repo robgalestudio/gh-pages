@@ -3,12 +3,38 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-03-24T11:56:37-07:00</updated>
+    <updated>2021-04-20T17:54:44-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>Nikes</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/nikes.html"/>
+        <id>https://smpltn.com/nikes.html</id>
+            <category term="styleframes"/>
+
+        <updated>2021-04-20T17:52:41-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/37/2021-04-20.jpg" alt="" />
+                     One yellow shoe. The other one, somewhere on the other side of town.&nbsp; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/37/2021-04-20.jpg" alt="" />
+                
+  <p>
+    One yellow shoe. The other one, somewhere on the other side of town.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Walking Tree</title>
         <author>
@@ -18,22 +44,17 @@
         <id>https://smpltn.com/the-walking-tree.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-24T11:56:37-07:00</updated>
+        <updated>2021-04-20T17:52:59-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/35/2021-03-24.jpg" alt="" />
-                     The Walking Tree There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to&hellip;
+                     There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to "draw" in 3D&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/35/2021-03-24.jpg" alt="" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/35/2021-03-24-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/35/responsive/2021-03-24-2-xs.jpg 384w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-sm.jpg 600w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-md.jpg 768w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      <figcaption>The Walking Tree</figcaption>
-    </figure>
-
   <p>
     There's this fantastic extension for Blender called <a href="https://gumroad.com/discover?query=quickcurve#EmBrX" target="_blank">Quick Curve</a> available on Gumroad. It allows you to "draw" in 3D space in Blender. It's hard to explain but it essentially lets you create quick, albeit rough 3D sketches and build out interesting organic forms quickly in Blender. It's targeted at concept artists and painters. It allowed me to quickly create a tree in 3D space, light it and bring it into photoshop to adjust and texture it and add it to my scene. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   </p>
@@ -49,7 +70,7 @@
         <id>https://smpltn.com/beware-the-bat-cave.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-23T16:13:29-07:00</updated>
+        <updated>2021-04-20T17:53:17-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/34/2021-03-23.jpg" alt="" />
@@ -60,11 +81,6 @@
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/34/2021-03-23.jpg" alt="" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/34/2021-03-23-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/34/responsive/2021-03-23-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
   <p>
     With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start the process of designing the environment in 3D. I'm a little slow with it because I'm just getting familiar with the way it works, but I can see how it could help speed the process along once I know what I'm doing. The trick is to keep it simple, knowing that I'm going to be going over everything with more detail in Photoshop.
   </p>
@@ -89,7 +105,7 @@
         <id>https://smpltn.com/i-heart-peppers.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-18T16:30:15-07:00</updated>
+        <updated>2021-04-20T17:54:00-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/33/2021-03-18.jpg" alt="I Heart Peppers" />
@@ -100,11 +116,6 @@
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/33/2021-03-18.jpg" alt="I Heart Peppers" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/33/2021-03-18-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/33/responsive/2021-03-18-2-xs.jpg 384w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-sm.jpg 600w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-md.jpg 768w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
   <p>
     I've been having loads of fun creating scenes that use a lot of collage elements with the central character painted and assembled in Photoshop.&nbsp;
   </p>
@@ -124,7 +135,7 @@
         <id>https://smpltn.com/laughing-at-batman.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-18T16:05:54-07:00</updated>
+        <updated>2021-04-20T17:54:20-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
@@ -135,10 +146,9 @@
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/32/2021-03-16-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/32/responsive/2021-03-16-2-xs.jpg 384w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-sm.jpg 600w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-md.jpg 768w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
@@ -151,7 +161,7 @@
         <id>https://smpltn.com/bird-girl.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-15T18:22:08-07:00</updated>
+        <updated>2021-04-20T17:54:31-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg" alt="Bird Girl" />
@@ -162,11 +172,6 @@
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg" alt="Bird Girl" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-
   <p>
     I had this painting of this girl I had done sometime last year, and I always liked it, but it never felt finished, so I thought I would try to do something with it. This is the result.&nbsp;
   </p>
@@ -260,7 +265,7 @@
         <id>https://smpltn.com/northlander.html</id>
             <category term="styleframes"/>
 
-        <updated>2021-03-14T09:57:47-07:00</updated>
+        <updated>2021-04-20T17:54:44-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
@@ -271,36 +276,9 @@
             <![CDATA[
                     <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://smpltn.com/media/posts/27/2021-02-22.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smpltn.com/media/posts/27/responsive/2021-02-22-xs.jpg 384w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-sm.jpg 600w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-md.jpg 768w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-lg.jpg 1200w"  height="1080" width="1920" alt="" />
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bouncy Things</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/bouncy-things.html"/>
-        <id>https://smpltn.com/bouncy-things.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:56:41-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/26/2021-02-19.jpg" alt="Bouncy Things" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/26/2021-02-19.jpg" alt="Bouncy Things" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/514513112?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>

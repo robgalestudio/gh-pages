@@ -11,11 +11,27 @@
     },
     "items": [
         {
+            "id": "https://smpltn.com/nikes.html",
+            "url": "https://smpltn.com/nikes.html",
+            "title": "Nikes",
+            "summary": " One yellow shoe. The other one, somewhere on the other side of town.&nbsp; ",
+            "content_html": "\n  <p>\n    One yellow shoe. The other one, somewhere on the other side of town.&nbsp;\n  </p>",
+            "image": "https://smpltn.com/media/posts/37/2021-04-20.jpg",
+            "author": {
+                "name": "Rob Gale"
+            },
+            "tags": [
+                   "styleframes"
+            ],
+            "date_published": "2021-04-20T16:59:43-07:00",
+            "date_modified": "2021-04-20T17:52:41-07:00"
+        },
+        {
             "id": "https://smpltn.com/the-walking-tree.html",
             "url": "https://smpltn.com/the-walking-tree.html",
             "title": "The Walking Tree",
-            "summary": " The Walking Tree There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/35/2021-03-24-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/35/responsive/2021-03-24-2-xs.jpg 384w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-sm.jpg 600w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-md.jpg 768w ,https://smpltn.com/media/posts/35/responsive/2021-03-24-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      <figcaption>The Walking Tree</figcaption>\n    </figure>\n\n  <p>\n    There's this fantastic extension for Blender called <a href=\"https://gumroad.com/discover?query=quickcurve#EmBrX\" target=\"_blank\">Quick Curve</a> available on Gumroad. It allows you to \"draw\" in 3D space in Blender. It's hard to explain but it essentially lets you create quick, albeit rough 3D sketches and build out interesting organic forms quickly in Blender. It's targeted at concept artists and painters. It allowed me to quickly create a tree in 3D space, light it and bring it into photoshop to adjust and texture it and add it to my scene. Photos from <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a>.\n  </p>",
+            "summary": " There's this fantastic extension for Blender called Quick Curve available on Gumroad. It allows you to \"draw\" in 3D&hellip;",
+            "content_html": "\n  <p>\n    There's this fantastic extension for Blender called <a href=\"https://gumroad.com/discover?query=quickcurve#EmBrX\" target=\"_blank\">Quick Curve</a> available on Gumroad. It allows you to \"draw\" in 3D space in Blender. It's hard to explain but it essentially lets you create quick, albeit rough 3D sketches and build out interesting organic forms quickly in Blender. It's targeted at concept artists and painters. It allowed me to quickly create a tree in 3D space, light it and bring it into photoshop to adjust and texture it and add it to my scene. Photos from <a href=\"https://unsplash.com\" target=\"_blank\">Unsplash</a>.\n  </p>",
             "image": "https://smpltn.com/media/posts/35/2021-03-24.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -24,14 +40,14 @@
                    "styleframes"
             ],
             "date_published": "2021-03-24T11:47:04-07:00",
-            "date_modified": "2021-03-24T11:56:37-07:00"
+            "date_modified": "2021-04-20T17:52:59-07:00"
         },
         {
             "id": "https://smpltn.com/beware-the-bat-cave.html",
             "url": "https://smpltn.com/beware-the-bat-cave.html",
             "title": "Beware the Bat Cave",
             "summary": " With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/34/2021-03-23-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/34/responsive/2021-03-23-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start the process of designing the environment in 3D. I'm a little slow with it because I'm just getting familiar with the way it works, but I can see how it could help speed the process along once I know what I'm doing. The trick is to keep it simple, knowing that I'm going to be going over everything with more detail in Photoshop.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/34/2021-03-23-2-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      <figcaption>3D render from Blender</figcaption>\n    </figure>\n\n  <p>\n    Once I had the basic block in of the environment and the lighting set up, I went into photoshop to add all the textures and the characters to the environment. As I often do, I found most of the textures here from a variety of photographers on <a href=\"https://unsplash.com/\">Unsplash</a>.\n  </p>",
+            "content_html": "\n  <p>\n    With this piece I wanted to try getting myself more comfortable with Blender, so I challenged myself to start the process of designing the environment in 3D. I'm a little slow with it because I'm just getting familiar with the way it works, but I can see how it could help speed the process along once I know what I'm doing. The trick is to keep it simple, knowing that I'm going to be going over everything with more detail in Photoshop.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/34/2021-03-23-2-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-xs.jpg 384w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-sm.jpg 600w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-md.jpg 768w ,https://smpltn.com/media/posts/34/responsive/2021-03-23-2-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      <figcaption>3D render from Blender</figcaption>\n    </figure>\n\n  <p>\n    Once I had the basic block in of the environment and the lighting set up, I went into photoshop to add all the textures and the characters to the environment. As I often do, I found most of the textures here from a variety of photographers on <a href=\"https://unsplash.com/\">Unsplash</a>.\n  </p>",
             "image": "https://smpltn.com/media/posts/34/2021-03-23.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -40,14 +56,14 @@
                    "styleframes"
             ],
             "date_published": "2021-03-23T15:59:42-07:00",
-            "date_modified": "2021-03-23T16:13:29-07:00"
+            "date_modified": "2021-04-20T17:53:17-07:00"
         },
         {
             "id": "https://smpltn.com/i-heart-peppers.html",
             "url": "https://smpltn.com/i-heart-peppers.html",
             "title": "I Heart Peppers",
             "summary": " I've been having loads of fun creating scenes that use a lot of collage elements with the central character&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/33/2021-03-18-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/33/responsive/2021-03-18-2-xs.jpg 384w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-sm.jpg 600w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-md.jpg 768w ,https://smpltn.com/media/posts/33/responsive/2021-03-18-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    I've been having loads of fun creating scenes that use a lot of collage elements with the central character painted and assembled in Photoshop.&nbsp;\n  </p>\n\n  <p>\n    Images from <a href=\"https://unsplash.com/\" target=\"_blank\">Unsplash</a>:&nbsp;<a href=\"https://unsplash.com/photos/m1MRYp556Ew\" target=\"_blank\">T-Shirt</a>,&nbsp;<a href=\"https://unsplash.com/photos/KT7Fqi7F1pk\" target=\"_blank\">Diner</a> and <a href=\"https://unsplash.com/photos/wlIB1M8YTnY\" class=\"\" target=\"_blank\">Smoke</a>.\n  </p>",
+            "content_html": "\n  <p>\n    I've been having loads of fun creating scenes that use a lot of collage elements with the central character painted and assembled in Photoshop.&nbsp;\n  </p>\n\n  <p>\n    Images from <a href=\"https://unsplash.com/\" target=\"_blank\">Unsplash</a>:&nbsp;<a href=\"https://unsplash.com/photos/m1MRYp556Ew\" target=\"_blank\">T-Shirt</a>,&nbsp;<a href=\"https://unsplash.com/photos/KT7Fqi7F1pk\" target=\"_blank\">Diner</a> and <a href=\"https://unsplash.com/photos/wlIB1M8YTnY\" class=\"\" target=\"_blank\">Smoke</a>.\n  </p>",
             "image": "https://smpltn.com/media/posts/33/2021-03-18.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -56,14 +72,14 @@
                    "styleframes"
             ],
             "date_published": "2021-03-18T15:55:07-07:00",
-            "date_modified": "2021-03-18T16:30:15-07:00"
+            "date_modified": "2021-04-20T17:54:00-07:00"
         },
         {
             "id": "https://smpltn.com/laughing-at-batman.html",
             "url": "https://smpltn.com/laughing-at-batman.html",
             "title": "Laughing at Batman",
             "summary": " ",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/32/2021-03-16-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/32/responsive/2021-03-16-2-xs.jpg 384w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-sm.jpg 600w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-md.jpg 768w ,https://smpltn.com/media/posts/32/responsive/2021-03-16-2-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>",
+            "content_html": "\n  <p>\n    \n  </p>",
             "image": "https://smpltn.com/media/posts/32/2021-03-16.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -72,14 +88,14 @@
                    "styleframes"
             ],
             "date_published": "2021-03-17T09:32:00-07:00",
-            "date_modified": "2021-03-18T16:05:54-07:00"
+            "date_modified": "2021-04-20T17:54:20-07:00"
         },
         {
             "id": "https://smpltn.com/bird-girl.html",
             "url": "https://smpltn.com/bird-girl.html",
             "title": "Bird Girl",
             "summary": " I had this painting of this girl I had done sometime last year, and I always liked it, but&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/31/2021-03-15-2-3.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-xs.jpg 384w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-sm.jpg 600w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-md.jpg 768w ,https://smpltn.com/media/posts/31/responsive/2021-03-15-2-3-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    I had this painting of this girl I had done sometime last year, and I always liked it, but it never felt finished, so I thought I would try to do something with it. This is the result.&nbsp;\n  </p>",
+            "content_html": "\n  <p>\n    I had this painting of this girl I had done sometime last year, and I always liked it, but it never felt finished, so I thought I would try to do something with it. This is the result.&nbsp;\n  </p>",
             "image": "https://smpltn.com/media/posts/31/2021-03-15-2-2.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -88,7 +104,7 @@
                    "styleframes"
             ],
             "date_published": "2021-03-15T18:17:05-07:00",
-            "date_modified": "2021-03-15T18:22:08-07:00"
+            "date_modified": "2021-04-20T17:54:31-07:00"
         },
         {
             "id": "https://smpltn.com/blocks.html",
@@ -143,7 +159,7 @@
             "url": "https://smpltn.com/northlander.html",
             "title": "Northlander",
             "summary": " ",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://smpltn.com/media/posts/27/2021-02-22.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smpltn.com/media/posts/27/responsive/2021-02-22-xs.jpg 384w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-sm.jpg 600w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-md.jpg 768w ,https://smpltn.com/media/posts/27/responsive/2021-02-22-lg.jpg 1200w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>",
+            "content_html": "\n  <p>\n    \n  </p>",
             "image": "https://smpltn.com/media/posts/27/2021-02-22-2.jpg",
             "author": {
                 "name": "Rob Gale"
@@ -152,23 +168,7 @@
                    "styleframes"
             ],
             "date_published": "2021-02-22T09:57:00-08:00",
-            "date_modified": "2021-03-14T09:57:47-07:00"
-        },
-        {
-            "id": "https://smpltn.com/bouncy-things.html",
-            "url": "https://smpltn.com/bouncy-things.html",
-            "title": "Bouncy Things",
-            "summary": " ",
-            "content_html": "<div><figure class=\"post__video\">\n    <iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/514513112?loop=1&title=0&byline=0&portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>\n</figure>\n</div>",
-            "image": "https://smpltn.com/media/posts/26/2021-02-19.jpg",
-            "author": {
-                "name": "Rob Gale"
-            },
-            "tags": [
-                   "animation"
-            ],
-            "date_published": "2021-02-19T09:55:00-08:00",
-            "date_modified": "2021-03-14T09:56:41-07:00"
+            "date_modified": "2021-04-20T17:54:44-07:00"
         }
     ]
 }
