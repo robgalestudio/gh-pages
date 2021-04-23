@@ -188,6 +188,17 @@
 <loc>https://smpltn.com/page/2/</loc>
 </url>
 <url>
+<loc>https://smpltn.com/page/3/</loc>
+</url>
+<url>
+<loc>https://smpltn.com/rain.html</loc>
+<lastmod>2021-04-22T18:13:38-07:00</lastmod>
+<image:image>
+<image:loc>https://smpltn.com/media/posts/38/2021-04-22.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://smpltn.com/rust.html</loc>
 <lastmod>2021-04-20T17:57:29-07:00</lastmod>
 <image:image>

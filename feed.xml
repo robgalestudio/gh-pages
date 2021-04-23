@@ -3,12 +3,38 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-04-20T17:54:44-07:00</updated>
+    <updated>2021-04-22T18:13:38-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>Rain</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/rain.html"/>
+        <id>https://smpltn.com/rain.html</id>
+            <category term="images"/>
+
+        <updated>2021-04-22T18:13:38-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/38/2021-04-22.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/38/2021-04-22.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nikes</title>
         <author>
@@ -16,7 +42,7 @@
         </author>
         <link href="https://smpltn.com/nikes.html"/>
         <id>https://smpltn.com/nikes.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:52:41-07:00</updated>
             <summary>
@@ -42,7 +68,7 @@
         </author>
         <link href="https://smpltn.com/the-walking-tree.html"/>
         <id>https://smpltn.com/the-walking-tree.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:52:59-07:00</updated>
             <summary>
@@ -68,7 +94,7 @@
         </author>
         <link href="https://smpltn.com/beware-the-bat-cave.html"/>
         <id>https://smpltn.com/beware-the-bat-cave.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:53:17-07:00</updated>
             <summary>
@@ -103,7 +129,7 @@
         </author>
         <link href="https://smpltn.com/i-heart-peppers.html"/>
         <id>https://smpltn.com/i-heart-peppers.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:54:00-07:00</updated>
             <summary>
@@ -133,7 +159,7 @@
         </author>
         <link href="https://smpltn.com/laughing-at-batman.html"/>
         <id>https://smpltn.com/laughing-at-batman.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:54:20-07:00</updated>
             <summary>
@@ -159,7 +185,7 @@
         </author>
         <link href="https://smpltn.com/bird-girl.html"/>
         <id>https://smpltn.com/bird-girl.html</id>
-            <category term="styleframes"/>
+            <category term="images"/>
 
         <updated>2021-04-20T17:54:31-07:00</updated>
             <summary>
@@ -253,32 +279,6 @@
     <iframe loading="lazy" src="https://player.vimeo.com/video/516886916?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Northlander</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/northlander.html"/>
-        <id>https://smpltn.com/northlander.html</id>
-            <category term="styleframes"/>
-
-        <updated>2021-04-20T17:54:44-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/27/2021-02-22-2.jpg" alt="Northlander" />
-                
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
