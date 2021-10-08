@@ -3,12 +3,64 @@
     <title>smpltn</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2021-04-22T18:13:38-07:00</updated>
+    <updated>2021-10-08T09:59:04-07:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
     <id>https://smpltn.com</id>
 
+    <entry>
+        <title>2040</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/rain-3.html"/>
+        <id>https://smpltn.com/rain-3.html</id>
+            <category term="images"/>
+
+        <updated>2021-10-08T09:59:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/40/2021-10-07.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/40/2021-10-07.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Imposter!!!</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/rain-2.html"/>
+        <id>https://smpltn.com/rain-2.html</id>
+            <category term="images"/>
+
+        <updated>2021-10-08T09:58:33-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/39/2021-10-06.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/39/2021-10-06.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rain</title>
         <author>
@@ -225,58 +277,6 @@
                     <img src="https://smpltn.com/media/posts/30/2021-03-02.jpg" alt="Blocks" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/520201611?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bouncy Things 02</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/bouncy-things-02.html"/>
-        <id>https://smpltn.com/bouncy-things-02.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T10:00:20-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/29/2021-02-25.jpg" alt="Bouncy Things 02" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/29/2021-02-25.jpg" alt="Bouncy Things 02" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/517416060?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Rules of the Game</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/the-rules-of-the-game.html"/>
-        <id>https://smpltn.com/the-rules-of-the-game.html</id>
-            <category term="animation"/>
-
-        <updated>2021-03-14T09:59:05-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/28/2021-02-24.jpg" alt="The Rules of the Game" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/28/2021-02-24.jpg" alt="The Rules of the Game" />
-                <div><figure class="post__video">
-    <iframe loading="lazy" src="https://player.vimeo.com/video/516886916?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
             ]]>
