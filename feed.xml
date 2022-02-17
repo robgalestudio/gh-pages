@@ -3,7 +3,7 @@
     <title>smpltn | Rob Gale&#x27;s Blog</title>
     <link href="https://smpltn.com/feed.xml" rel="self" />
     <link href="https://smpltn.com" />
-    <updated>2022-02-17T08:10:42-08:00</updated>
+    <updated>2022-02-17T10:56:20-08:00</updated>
     <author>
         <name>Rob Gale</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://smpltn.com/thumbnails.html"/>
         <id>https://smpltn.com/thumbnails.html</id>
 
-        <updated>2022-02-17T08:10:42-08:00</updated>
+        <updated>2022-02-17T10:55:09-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://smpltn.com/media/posts/42/005-thumbnails.jpg" alt="" />
                      This timelapse of thumbnail sketches shows part of my process for exploring visual ideas for an illustration. It’s part of a personal&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://smpltn.com/media/posts/42/005-thumbnails.jpg" alt="" />
                 <div><figure class="post__video">
     <iframe loading="lazy" src="https://player.vimeo.com/video/678743336?loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
@@ -33,6 +35,49 @@
   <p>
     This timelapse of thumbnail sketches shows part of my process for exploring visual ideas for an illustration. It’s part of a personal project I’ve been working on and I thought it would be fun to share a bit of work in progress.<br><br>Once I have a general idea of what the picture will be, I try to sketch out, super quickly, several rough compositions. I’ll generate between 20 and 30 of these small thumbnail sketches, spending no more than a few minutes on each one. <br><br>Doing this gives me the opportunity to try a lot of different options rapidly. The idea is to work out the big picture problems, problems like composition, blocking, character poses, etc. and give myself several options to compare against one another. The more time I spend here, the more I can get into a state of flow when I get to work on the final image, and it almost always helps me to a better end result.
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Character Sketches</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://smpltn.com/character-sketches.html"/>
+        <id>https://smpltn.com/character-sketches.html</id>
+
+        <updated>2022-02-17T10:56:20-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://smpltn.com/media/posts/43/2022-01-28.jpg" alt="" />
+                     For a long time I’ve wanted to work on a short film or comic outside of client projects, but I’ve put it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smpltn.com/media/posts/43/2022-01-28.jpg" alt="" />
+                <div><figure class="post__video">
+<iframe loading="lazy" src="https://player.vimeo.com/video/678744527?h=f95aeb35f0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2022-02-03.mp4"></iframe></figure></div>
+
+  <p>
+    For a long time I’ve wanted to work on a short film or comic outside of client projects, but I’ve put it off again and again. You know how it goes, you get busy, you find other things that are easier, more accessible, there are always skills to be worked on, things to learn. The list is endless. But at some point, you just have to start.<br><br>So, in the spirit of starting, I wanted to share some of my work in progress as I hash out the visual language of a story I’ve written. I’ve been doing a lot of sketches and exploring different styles, and I thought it would be fun to capture a timelapse of one of those sessions, so here it is.
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://smpltn.com/media/posts/43/gallery/2022-01-27-b.jpg" data-size="1600x900">
+        <img loading="lazy" src="https://smpltn.com/media/posts/43/gallery/2022-01-27-b-thumbnail.jpg" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://smpltn.com/media/posts/43/gallery/2022-01-27.jpg" data-size="1600x900">
+        <img loading="lazy" src="https://smpltn.com/media/posts/43/gallery/2022-01-27-thumbnail.jpg" height="405" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
@@ -46,7 +91,7 @@
             <category term="stories"/>
             <category term="images"/>
 
-        <updated>2022-02-16T21:08:38-08:00</updated>
+        <updated>2022-02-17T10:55:15-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://smpltn.com/media/posts/41/2021-10-10-2.jpg" alt="Next Service" />
@@ -255,32 +300,6 @@
 
   <p>
     Images from <a href="https://unsplash.com/" target="_blank">Unsplash</a>:&nbsp;<a href="https://unsplash.com/photos/m1MRYp556Ew" target="_blank">T-Shirt</a>,&nbsp;<a href="https://unsplash.com/photos/KT7Fqi7F1pk" target="_blank">Diner</a> and <a href="https://unsplash.com/photos/wlIB1M8YTnY" class="" target="_blank">Smoke</a>.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Laughing at Batman</title>
-        <author>
-            <name>Rob Gale</name>
-        </author>
-        <link href="https://smpltn.com/laughing-at-batman.html"/>
-        <id>https://smpltn.com/laughing-at-batman.html</id>
-            <category term="images"/>
-
-        <updated>2021-04-20T17:54:20-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smpltn.com/media/posts/32/2021-03-16.jpg" alt="Laughing at Batman" />
-                
-  <p>
-    
   </p>
             ]]>
         </content>
